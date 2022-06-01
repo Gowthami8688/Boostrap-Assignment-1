@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 400px;  
+    width: 100%;
+}
+.main h1{
+    position: center;
+    color: green;
+    margin-left: 500px;
+    padding-top: 70px;
+    font-size: 40px;
+}
+.main p{
+    position: center;
+    color: white;
+    margin-left: 400px;
+    font-size: 25px;
+}
+.main h4{
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-left: 670px;
+    width: 180px;
+    height: 50px;
+    padding-top: 10px;
+}
+.pic1{
+    height: 300px;
+    width: 400px;
+    background: url("rose.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-left: 100px;
+    margin-top: 40px;
+    border: 1px solid rebeccapurple;
+
+}
+.pic2{
+    height: 300px;
+    width: 400px;
+    background: url("moon.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 450px;
+    margin-top: 0.5px;
+    border: 1px solid rebeccapurple;
+    }
+ .sub h2{
+     padding-left: 100px;
+     padding-top: 10px;
+
+ }
+ .sub{
+    background-color: rgb(192, 202, 201);
+    width: 100%;
+    height: 600px;
+    padding-top: 30px;
+}
+.text{
+    padding-left: 100px;
+}
+.text1{
+    padding-left: 550px;
+    margin-top: -90px;
+}
+.form{
+    border: none;
+    width: 30%;
+    height: 400px;
+    float: right;
+    margin-top: -480px;
+    margin-right: 140px;
+}
+.form input[type="name"]{
+    width:100%;
+    height: 50px;
+    border: none;
+    text-align: left;
+    padding-left: 15px;
+
+}
+
+.form input[type="email address"]{
+    width:100%;
+    height: 50px;
+    border: none;
+    text-align: left;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+.form input[type="box"]{
+    width:100%;
+    height: 160px;
+    border: none;
+    text-align: left;
+    margin-top: 20px;
+}
+.btn{
+    width: 100%;    
+    height: 50px;
+    border: none;
+    text-align: center;
+    margin-top: 20px;
+    background: green;
+    color: white;
+}
+.sub1{
+    width: 100%;
+    height: 750px;
+    background-color: antiquewhite;
+
+}
+.d1{
+    
+    width: 200px;
+    height: 170px;
+    margin-left: 100px;
+    border-radius: 50%;
+    background: url(boy.png);
+    background-position: center;
+    background-size: cover;
+
+}
+.d2{
+     
+        width: 200px;
+        height: 170px;
+        margin-left: 350px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(girl.png);
+        background-position: center;
+        background-size: cover;
+
+    }
+    .d3{
+       
+        width: 200px;
+        height: 170px;
+        margin-left: 600px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(boy1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d4{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 850px;
+        margin-top: -170px;
+        border-radius: 50%;
+        background: url(girl1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d5{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 350px;
+        margin-top: 100px;
+        border-radius: 50%;
+        background: url(boy2.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d6{
+        
+        width: 200px;
+        height: 170px;
+        margin-left: 100px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(girl2.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    .d7{
+       
+        width: 200px;
+        height: 170px;
+        margin-left: 600px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(boy3.jpg);
+        background-position: center;
+        background-size: cover;
+      
+    }
+    .d8{
+    
+        width: 200px;
+        height: 170px;
+        margin-left: 850px;
+        margin-top: -169px;
+        border-radius: 50%;
+        background: url(girl.png);
+        background-position: center;
+        background-size: cover;
+    }
+    .n1{
+        width: 160px;
+        height: 60px;
+  
+        margin-left: 120px;
+        margin-top: -7cm;
+    
+    }
+    .n2{
+        width: 160px;
+        height: 60px;
+
+        margin-left: 370px;
+        margin-top: -1.65cm;
+    }
+    .n3{
+        width: 160px;
+        height: 60px;
+       
+        margin-left: 620px;
+        margin-top: -1.65cm;
+    }
+    .n4{
+        width: 160px;
+        height: 60px;
+      
+        margin-left: 880px;
+        margin-top: -1.65cm;
+    }
+    .n5{
+        width: 160px;
+        height: 60px;
+        
+        margin-left: 880px;
+        margin-top: 6cm;
+    }
+    .n6{
+        width: 160px;
+        height: 60px;
+      
+        margin-left: 620px;
+        margin-top: -1.60cm;
+    }
+    .n7{
+        width: 160px;
+        height: 60px;
+      
+        margin-left: 370px;
+        margin-top: -1.60cm;
+    }
+    .n8{
+        width: 160px;
+        height: 60px;
+     
+        margin-left: 120px;
+        margin-top: -1.60cm;
+    }
+
+.content{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+.content h3{
+   padding-left: 120px;
+   padding-top: 50px;
+   color: white;
+
+}
+
+.content p{
+    padding-left: 120px;
+    color: lightblue;
+}
+.content h4{
+   padding-left: 900px;
+   color: white;
+   margin-top: -170px;
+   font-size: 30px;
+}
+.content h6{
+    padding-left: 900px;
+    color: lightblue;
+    margin-top: 10px;
+}
